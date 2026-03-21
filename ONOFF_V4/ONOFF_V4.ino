@@ -26,9 +26,9 @@ void setup(){
   all = 0;
   mode = 1;
   eh = 105;
-  es = 100;
+  es = 105;
   sh = 175;
-  ss = 0;
+  ss = 10;
   servos.write(ss,255,true);
   servoh.write(sh,255,true);
   s(255,0,0);

@@ -1,5 +1,5 @@
 ## メインファイル
-- コード [ONOFF_V2](./ONOFF_V2/ONOFF_V2.ino)
+- コード [ONOFF_V2](./ONOFF_V4/ONOFF_V4.ino)
 - 回路画像 [OnOffBread.png](./OnOffBread.PNG.png)
 - PCB画像(不使用) [OnOff.brd](./OnOff2.brd)
 - 3Dモデル(Ver2) [OnOff3D.f3d](./OnOff3D.f3d)
